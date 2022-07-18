@@ -1,5 +1,5 @@
 .gradle
 build/
-
+tasklist.json
 .idea/
 **/.DS_Store
